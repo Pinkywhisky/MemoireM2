@@ -1,0 +1,102 @@
+L'automatisation : une évolution dans le domaine des postes de l'informatique
+Transformer l'humain par le script, un danger ou une bénédiction ?
+
+page de garde
+Résumé (Après la rédaction du mémoire)
+Sommaire
+Table des figures ou illustration
+Glossaire (optionnel)
+Préface (Après la rédaction du mémoire)
+Remerciement (peut être inclu dans la préface)
+
+Introduction
+- définir entreprise
+- accentuer le coté évolution
+- trouver des liaison entre les parties / fil conducteur
+- l'évolution fait partie de l'humain
+- notion d'organisation par l'ordre qui permet de trier 
+- validé une inscription dans un script
+
+Etat de l'art
+Formulation d'hypothèse
+Cadre théorique
+Cadre de développement
+
+Conclusion et discussion
+
+Postface (bilan personnel)
+
+Bibliographie
+Annexe
+
+RENDU 29 mars 2023 à 19h00
+
+Automatisation : (https://www.toosmart.io/qu-est-ce-que-l-automatisation)
+- processus numériques récurrents
+- tâches répétitives et à faible valeur ajoutée
+- En principe, toute tâche qui peut s’écrire comme une succession de règles peut être automatisée
+- uniformiser les comptes-rendus
+- décharger les humains de tâches répétitives, chronophages et à faible valeur ajoutée
+- ce temps investi est rapidement rentabilisé
+- se concentrer sur des missions à forte valeur ajoutée
+- le risque d’erreur humaine disparaît
+- se focaliser sur leur cœur de métier, qui comporte souvent une valeur ajoutée bien plus motivante
+- conjuguer vie professionnelle et vie privée
+- favoriser le travail hybride et le télétravail
+- Pour automatiser, il faut se fier à une base de données à jour
+
+https://www.linternaute.fr/dictionnaire/fr/definition/processus/
+processus , nom masculin
+    En informatique, ensemble d'instructions exécutables par un ordinateur.
+
+https://www.linternaute.fr/dictionnaire/fr/definition/automatiser/
+automatiser , verbe transitif
+    Rendre automatique, procéder à l'automatisation d'un processus.
+	
+https://www.ibm.com/fr-fr/topics/automation
+L'automatisation est le terme qui décrit les applications technologiques où l'apport humain est minimisé. Cela inclut l'automatisation des processus métier (BPA, Business Process Automation), l'automatisation de l'informatique, les applications personnelles telles que la domotique, entre autres.
+
+Types d'automatisation :
+	Automatisation basique 
+	Automatisation des processus 
+	Automatisation des intégrations
+	L'automatisation de l'intelligence artificielle
+
+Evolution / innovation / transformation numérique / régressive : 
+- A coté de cela, il y a bien des Hommes pour penser, créer, installer, entretenir et réparer toutes ces objets et machines... (https://www.cristal-it.com/post/%C3%A9volution-des-technologies-informatiques)
+- révolution industrielle (https://rpaconseil.com/rpa-conseil-definition/revolutions-industrielles/)
+
+La technologie et l'environnement 
+https://www.cairn.info/revue-reflets-et-perspectives-de-la-vie-economique-2012-4-page-77.htm
+https://ellcie-healthy.com/limpact-de-la-technologie-sur-lenvironnement/
+https://www.projetecolo.com/impact-des-technologies-sur-l-environnement-201.html
+https://www.lemondedelenergie.com/innovation-transition-ecologique/2021/09/14/
+*** emprunte carbonne ***
+https://selectra.info/telecom/actualites/acteurs/empreinte-carbone-numerique-nouvelles-technologies-moins-consommatrices
+https://www.ericsson.com/fr/blog/3/2021/5/comment-reduire-lempreinte-carbone-grace-aux-nouvelles-technologies
+https://datacenter-magazine.fr/datacenters-defis-techniques-et-enjeux-environnementaux-dun-marche-en-plein-boom/
+
+L'évolution technologique et la survit des entreprises
+
+
+Les débuts de l'automatisation
+
+les avantages de l'automatisation
+https://stsolutions.ch/automatisation-industrielle/
+https://www.mondial-infos.fr/avantages-et-inconvenients-de-lautomatisation/
+https://definir-tech.com/info/3410/quels-sont-les-avantages-et-les-inconvenients-de-l-automatisation
+http://www.authot.com/fr/2021/06/08/lautomatisation-ses-avantages-et-ses-limites/
+https://www.fortra.com/fr/ressources/guides/operations-automatisees-5-avantages-de-lautomatisation
+
+Les inconvéniants de l'automatisation
+https://zipclock.com/fr/business-automation/disadvantages-of-business-process-automation.html
+https://www.synonyme-du-mot.com/les-articles/quels-sont-les-inconvenients-de-lautomatisation
+
+Le travail avec l'automatisation
+https://uplandsoftware.com/cimpl-fr/resources/blogue/5-impacts-de-lautomatisation-sur-votre-methode-de-travail/
+- 
+
+
+ICS-IDS armis nozomi
+BNF, Bibliothèque françois Mitterand
+Senat
