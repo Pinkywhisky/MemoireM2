@@ -2,6 +2,7 @@ ECHO off
 color 00
 set Rep_Commum=%~dp0MEMOIRE 2
 ::cd %Rep_Commum%
+::set date=%date%
 
 :debut
 cls
@@ -24,7 +25,7 @@ goto debut
 
 :push
 git add .
-git commit -m memoire
+git commit -m "memoire %date% %time%"
 git push https://github.com/Pinkywhisky/MemoireM2 master
 ECHO Mise a jour faite !
 pause
