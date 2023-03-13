@@ -1,20 +1,17 @@
-ECHO off
-color 00
-set Rep_Commum=%~dp0MEMOIRE 2
-::cd %Rep_Commum%
-::set date=%date%
+echo off
+
+set erreur="0"
 
 :debut
 cls
+if /I %erreur% == "1" (echo Merci de faire le choix 1 ou 2 !)
 ECHO [1] Faire un git pull
 ECHO [2] Faire un git push
-ECHO [3] Quitter
 set /p choix=Resultat :
 
 if /I "%choix%" == "1" (goto pull)
 if /I "%choix%" == "2" (goto push)
-if /I "%choix%" == "3" (goto exit)
-if /I "%choix%" == "4" (goto test)
+set erreur="1"
 goto :debut
 
 :pull
@@ -29,14 +26,4 @@ git commit -m "memoire %date% %time%"
 git push https://github.com/Pinkywhisky/MemoireM2 master
 ECHO Mise a jour faite !
 pause
-goto debut
-
-:exit
 exit
-
-:test
-echo %Rep_Commum%
-pause
-goto debut
-
-::git config --global user.email "jllsla@free.fr"
