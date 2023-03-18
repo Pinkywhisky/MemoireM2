@@ -1,7 +1,7 @@
 =============================================
 INTRODUCTION (pour compléter celle déja existante)
 =============================================
-L'automatisation est en effet une évolution importante dans le domaine des postes de l'informatique, car elle permet d'automatiser des tâches répétitives et chronophages, ce qui libère du temps pour les tâches plus complexes et à plus forte valeur ajoutée.
+L'automatisation est en effet une évolution importante dans le domaine l'informatique, car elle permet d'automatiser des tâches répétitives et chronophages, ce qui libère du temps pour les tâches plus complexes et à plus forte valeur ajoutée.
 
 Dans le domaine de l'infrastructure informatique, l'automatisation est devenue essentielle pour gérer et maintenir des systèmes informatiques de plus en plus complexes. Les outils d'automatisation permettent aux administrateurs système de déployer, configurer et maintenir des serveurs et des réseaux avec une plus grande efficacité, réduisant ainsi les erreurs et les temps d'arrêt.
 
