@@ -11,6 +11,18 @@ Enfin, l'automatisation est également de plus en plus utilisée dans le domaine
 
 Dans l'ensemble, l'automatisation est une évolution majeure dans le domaine de l'informatique, qui permet de gagner en efficacité et en productivité tout en réduisant les coûts et les erreurs. Cependant, elle peut également avoir des conséquences sur l'emploi, car elle peut remplacer certaines tâches autrefois effectuées par des humains. Il est donc important de s'adapter à ces changements et de développer de nouvelles compétences pour répondre aux nouveaux besoins du marché.
 
+Dans l'Antiquité, la programmation informatique telle que nous la connaissons aujourd'hui n'existait pas. Cependant, certaines inventions anciennes ont jeté les bases des concepts de programmation et d'automatisation qui allaient émerger des millénaires plus tard. Voici quelques exemples d'inventions notables qui montrent l'évolution de ces idées :
+
+La machine d'Anticythère (Grèce antique, vers 150-100 av. J.-C.) : Il s'agit d'un dispositif mécanique complexe découvert dans une épave près de l'île d'Anticythère. La machine d'Anticythère est considérée comme le premier ordinateur analogique, utilisé pour calculer les positions astronomiques et les dates des éclipses. Bien que ce ne soit pas de la programmation à proprement parler, la machine illustre les premiers pas de l'humanité vers la mécanisation et la computation.
+
+Les automates (Grèce antique, 300 av. J.-C.) : Les automates étaient des dispositifs mécaniques capables d'exécuter des actions de manière automatique ou préprogrammée. L'un des inventeurs les plus célèbres d'automates était Héron d'Alexandrie, qui a créé des dispositifs automatisés tels que des distributeurs d'eau et des machines de théâtre. Ces inventions représentent les premières réalisations en matière d'automatisation et de pré-programmation de processus mécaniques.
+
+Le système hydraulique de Ctesibios (Grèce antique, 3e siècle av. J.-C.) : Ctesibios était un ingénieur grec qui a inventé un système hydraulique pour contrôler les mouvements des automates. Ce système utilisait des flotteurs et des mécanismes de déclenchement pour actionner des dispositifs mécaniques à des moments précis, une première ébauche de la notion de programmation.
+
+Le mécanisme à came (Chine antique, 3e siècle av. J.-C.) : Le mécanisme à came est un dispositif mécanique qui convertit un mouvement rotatif en un mouvement linéaire ou oscillant. Il a été utilisé dans diverses machines, telles que les horloges et les automates. Les cames sont souvent considérées comme une forme rudimentaire de programmation mécanique, car elles permettent de contrôler et de séquencer le mouvement d'autres pièces mécaniques.
+
+En résumé, bien que la programmation informatique n'existait pas dans l'Antiquité, plusieurs inventions et dispositifs mécaniques ont jeté les bases des concepts d'automatisation et de programmation qui allaient émerger plus tard. Ces premières réalisations témoignent de l'ingéniosité humaine et de l'évolution des connaissances en matière d'automatisation et de contrôle des processus mécaniques.
+
 
 =============================================
 CHAPITRE 1
