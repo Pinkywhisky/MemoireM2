@@ -67,14 +67,7 @@ Evolution / innovation / transformation numérique / régressive :
 - révolution industrielle (https://rpaconseil.com/rpa-conseil-definition/revolutions-industrielles/)
 
 La technologie et l'environnement 
-https://www.cairn.info/revue-reflets-et-perspectives-de-la-vie-economique-2012-4-page-77.htm
-https://ellcie-healthy.com/limpact-de-la-technologie-sur-lenvironnement/
-https://www.projetecolo.com/impact-des-technologies-sur-l-environnement-201.html
-https://www.lemondedelenergie.com/innovation-transition-ecologique/2021/09/14/
 *** emprunte carbonne ***
-https://selectra.info/telecom/actualites/acteurs/empreinte-carbone-numerique-nouvelles-technologies-moins-consommatrices
-https://www.ericsson.com/fr/blog/3/2021/5/comment-reduire-lempreinte-carbone-grace-aux-nouvelles-technologies
-https://datacenter-magazine.fr/datacenters-defis-techniques-et-enjeux-environnementaux-dun-marche-en-plein-boom/
 
 L'évolution technologique et la survit des entreprises
 
@@ -97,7 +90,6 @@ https://uplandsoftware.com/cimpl-fr/resources/blogue/5-impacts-de-lautomatisatio
 - 
 
 le programme
-https://doc.lagout.org/programmation/scripts/batch/Batch.pdf
 
 ICS-IDS armis nozomi
 BNF, Bibliothèque françois Mitterand
@@ -110,3 +102,73 @@ pollution massive de l'environnement
 destruction des sites naturels et de la biodiversité
 réduction des ressources naturelles
 ralentir 
+
+Introduction
+
+Problématique
+
+Chapitre 1 : L’évolution technologique dans tous les domaines
+
+La technologie et l’informatique, un combo gagnant
+
+La technologie et son impact sur l’environnement
+https://www.cairn.info/revue-reflets-et-perspectives-de-la-vie-economique-2012-4-page-77.htm
+https://ellcie-healthy.com/limpact-de-la-technologie-sur-lenvironnement/
+https://www.projetecolo.com/impact-des-technologies-sur-l-environnement-201.html
+https://www.lemondedelenergie.com/innovation-transition-ecologique/2021/09/14/
+https://selectra.info/telecom/actualites/acteurs/empreinte-carbone-numerique-nouvelles-technologies-moins-consommatrices
+https://www.ericsson.com/fr/blog/3/2021/5/comment-reduire-lempreinte-carbone-grace-aux-nouvelles-technologies
+https://datacenter-magazine.fr/datacenters-defis-techniques-et-enjeux-environnementaux-dun-marche-en-plein-boom/
+
+L’évolution technologique pour faire pérenniser les entreprises
+
+La technologie pour prendre soin de l’Humain
+https://www.vie-publique.fr/parole-dexpert/38509-nouvelles-technologies-sante
+https://medipense.com/fr/comment-lautomatisation-aide-les-soins-de-sante/
+https://santors.fr/les-soins/des-medicaments-imprimes-3-d
+https://hitwest.ouest-france.fr/news/le-bras-bionique-a-nantes-comment-ca-marche-38697
+https://www.medecinesciences.org/en/articles/medsci/full_html/2012/11/medsci20122811p932/medsci20122811p932.html
+https://www.20minutes.fr/sante/4009091-20221111-sonde-connectee-aider-reeducation-perineale
+
+La technologie pour dépasser les limites de l’homme
+
+Chapitre 2 : Evolution du poste informatique à l’automatisation
+
+L’ordinateur
+
+Le programme informatique
+https://doc.lagout.org/programmation/scripts/batch/Batch.pdf
+
+L’automatisation
+
+L’Intelligence Artificielle
+
+Chapitre 3 : L’automatisation, un confort au quotidien
+
+Le réseau internet
+
+Le numérique
+
+Les objets connectés
+
+Chapitre 4 : Les limites de l’automatisation
+
+Le côté éthique
+https://cnt-so.org/staa/2022/11/11/non-a-lautomatisation-des-metiers-de-lart/
+https://trustmyscience.com/automatisation-les-metiers-du-futur-seront-ils-majoritairement-technologiques/
+Insatisfaction des salariés et des clients en réaction à l’automatisation des caisses d’un hypermarché : de la prise de parole à la défection et à la négligence :https://www.erudit.org/fr/revues/ri/2016-v71-n2-ri02537/1036612ar/
+https://www.cairn.info/revue-francaise-d-ethique-appliquee-2018-1-page-16.htm
+https://www.lesechos.fr/tech-medias/intelligence-artificielle/les-cinq-metiers-les-plus-menaces-par-lintelligence-artificielle-137080
+https://www.hays.fr/it/blog/-/blogs/l-automatisation-ethique-est-elle-realiste
+https://www.nae.edu/200473/Socially-Responsible-Automation-A-Framework-for-Shaping-the-Future
+https://www.cnil.fr/fr
+https://www.bocasay.com/fr/valent-donnees-personnelles-comment-utilisees/
+https://www.la-croix.com/Economie/Economie-et-entreprises/Facebook-Google-geants-vente-donnees-personnelles-2019-12-29-1201068909
+https://www.lemondeinformatique.fr/actualites/lire-l-ia-futur-recruteur-pour-trouver-les-candidats-ideaux-89197.html
+https://www.apec.fr/tendances-emploi-cadre/processus-de-recrutement-des-cadres/ia-et-recrutement--quels-impacts-sur-les-metiers-cadres-des-rh.html
+https://martin-gibert.medium.com/quest-ce-que-l-%C3%A9thique-des-algorithmes-b681dac27334
+
+L’addiction aux technologies
+
+Conclusion
+
