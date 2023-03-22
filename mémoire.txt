@@ -149,6 +149,10 @@ Le réseau internet
 https://www.techno-science.net/definition/10886.html
 https://www.techno-science.net/definition/4008.html
 https://fr.wikipedia.org/wiki/Internet
+https://fr.wikipedia.org/wiki/Autonomous_System
+https://www.cloudflare.com/fr-fr/learning/network-layer/what-is-an-autonomous-system/
+https://www.internetsociety.org/fr/policybriefs/openstandards/
+https://www.cloudflare.com/fr-fr/learning/dns/what-is-dns/
 
 Le numérique
 
