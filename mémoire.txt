@@ -62,16 +62,6 @@ Types d'automatisation :
 	Automatisation des intégrations
 	L'automatisation de l'intelligence artificielle
 
-Evolution / innovation / transformation numérique / régressive : 
-- A coté de cela, il y a bien des Hommes pour penser, créer, installer, entretenir et réparer toutes ces objets et machines... (https://www.cristal-it.com/post/%C3%A9volution-des-technologies-informatiques)
-- révolution industrielle (https://rpaconseil.com/rpa-conseil-definition/revolutions-industrielles/)
-
-La technologie et l'environnement 
-*** emprunte carbonne ***
-
-L'évolution technologique et la survit des entreprises
-
-
 Les débuts de l'automatisation
 
 les avantages de l'automatisation
@@ -89,19 +79,7 @@ Le travail avec l'automatisation
 https://uplandsoftware.com/cimpl-fr/resources/blogue/5-impacts-de-lautomatisation-sur-votre-methode-de-travail/
 - 
 
-le programme
 
-ICS-IDS armis nozomi
-BNF, Bibliothèque françois Mitterand
-Senat
-
-GIEC Groupe d'experts intergouvernemental sur l'évolution du climat
-avertissement des évênements exceptionnels
-capacité à entendre ces alertes ? agir pour réduire les effets ?
-pollution massive de l'environnement
-destruction des sites naturels et de la biodiversité
-réduction des ressources naturelles
-ralentir 
 
 Introduction
 
@@ -110,6 +88,7 @@ Problématique
 Chapitre 1 : L’évolution technologique dans tous les domaines
 
 La technologie et l’informatique, un combo gagnant
+--> Voir si le brevet émis est utilisé et comment ?
 
 La technologie et son impact sur l’environnement
 https://www.cairn.info/revue-reflets-et-perspectives-de-la-vie-economique-2012-4-page-77.htm
@@ -140,8 +119,11 @@ Le programme informatique
 https://doc.lagout.org/programmation/scripts/batch/Batch.pdf
 
 L’automatisation
+https://www.ibm.com/fr-fr/topics/automation
+https://www.editions-eni.fr/open/mediabook.aspx?idR=0afd65fc585c9fabe014ff87b3e360ea
 
 L’Intelligence Artificielle
+
 
 Chapitre 3 : L’automatisation, un confort au quotidien
 
@@ -167,6 +149,10 @@ https://fr.wikipedia.org/wiki/Base_de_donn%C3%A9es#
 https://www.la-croix.com/Economie/Economie-et-entreprises/Facebook-Google-geants-vente-donnees-personnelles-2019-12-29-1201068909
 https://dictionnaire.lerobert.com/definition/smartphone
 
+Le cloud
+https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/
+https://www.zdnet.fr/actualites/zd-tech-le-cloud-francais-ecrase-par-trois-geants-americains-39942686.htm
+
 
 Les objets connectés
 
@@ -188,6 +174,7 @@ https://www.apec.fr/tendances-emploi-cadre/processus-de-recrutement-des-cadres/i
 https://martin-gibert.medium.com/quest-ce-que-l-%C3%A9thique-des-algorithmes-b681dac27334
 
 L’addiction aux technologies
+https://www.drogues.gouv.fr/les-francais-addicts-leurs-ecrans
 
 Conclusion
 
