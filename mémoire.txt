@@ -156,6 +156,7 @@ https://www.vmware.com/fr/products/esxi-and-esx.html
 https://www.vmware.com/fr/topics/glossary/content/hypervisor.html
 https://www.ummto.dz/dspace/bitstream/handle/ummto/12483/HamdaniNadir.pdf?sequence=1&isAllowed=y
 http://yannickprie.net/archives/VEILLE-2009-2012/2012/cloudsec/partie1/01.html
+https://www.it-connect.fr/virtualisation-les-types-de-connexion-au-reseau/
 
 
 Les objets connectés
