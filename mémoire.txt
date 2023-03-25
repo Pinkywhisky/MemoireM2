@@ -152,6 +152,10 @@ https://dictionnaire.lerobert.com/definition/smartphone
 Le cloud
 https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/
 https://www.zdnet.fr/actualites/zd-tech-le-cloud-francais-ecrase-par-trois-geants-americains-39942686.htm
+https://www.vmware.com/fr/products/esxi-and-esx.html
+https://www.vmware.com/fr/topics/glossary/content/hypervisor.html
+https://www.ummto.dz/dspace/bitstream/handle/ummto/12483/HamdaniNadir.pdf?sequence=1&isAllowed=y
+http://yannickprie.net/archives/VEILLE-2009-2012/2012/cloudsec/partie1/01.html
 
 
 Les objets connectés
