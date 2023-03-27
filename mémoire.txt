@@ -109,7 +109,11 @@ https://hitwest.ouest-france.fr/news/le-bras-bionique-a-nantes-comment-ca-marche
 https://www.medecinesciences.org/en/articles/medsci/full_html/2012/11/medsci20122811p932/medsci20122811p932.html
 https://www.20minutes.fr/sante/4009091-20221111-sonde-connectee-aider-reeducation-perineale
 
-La technologie pour dépasser les limites de l’homme
+La technologie et la guerre
+https://www.cairn.info/revue-inflexions-2007-1-page-177.htm
+https://www.senat.fr/questions/base/2015/qSEQ150114500.html
+https://observers.france24.com/fr/moyen-orient/20221125-propagande-terrorisme-etat-islamique-r%C3%A9seaux-sociaux
+
 
 Chapitre 2 : Evolution du poste informatique à l’automatisation
 
@@ -155,7 +159,7 @@ https://www.zdnet.fr/actualites/zd-tech-le-cloud-francais-ecrase-par-trois-geant
 https://www.vmware.com/fr/products/esxi-and-esx.html
 https://www.vmware.com/fr/topics/glossary/content/hypervisor.html
 https://www.ummto.dz/dspace/bitstream/handle/ummto/12483/HamdaniNadir.pdf?sequence=1&isAllowed=y
-http://yannickprie.net/archives/VEILLE-2009-2012/2012/cloudsec/partie1/01.html
+http://yannickprie.net/archives/VEILLE-2009-2012/2012/cloudsec/livreblanc_securite_virtualisation.pdf
 https://www.it-connect.fr/virtualisation-les-types-de-connexion-au-reseau/
 
 
@@ -165,14 +169,21 @@ https://www.google.com/search?client=firefox-b-d&q=avantage+des+objets+connect%C
 https://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/objets-connectes
 https://www.notre-planete.info/publi/2263-objets-connectes-avantages
 https://iotjourney.orange.com/fr-FR/explorer/les-solutions-iot/objet-connecte
-https://www.connectwave.fr/techno-appli-iot/iot/reseaux-et-infrastructures-iot/		image à prendre
+https://www.connectwave.fr/techno-appli-iot/iot/reseaux-et-infrastructures-iot/
+https://iotjourney.orange.com/fr-FR/connectivite
+https://www.connectwave.fr/techno-appli-iot/iot/les-reseaux-iot/
+https://www.smart-traffik.io/liot-dans-le-retail-moteur-dune-nouvelle-experience-client/
+https://www.silamp.fr/objet-connecte-definition
+https://www.netcollectivites.fr/radar-pedagogique-fixe/789-radar-pedagogique-preventif-speed.html
+https://www.perlesystems.fr/supportfiles/poe_background_technical_note.shtml
 
 Chapitre 4 : Les limites de l’automatisation
 
 Le côté éthique
 https://cnt-so.org/staa/2022/11/11/non-a-lautomatisation-des-metiers-de-lart/
 https://trustmyscience.com/automatisation-les-metiers-du-futur-seront-ils-majoritairement-technologiques/
-Insatisfaction des salariés et des clients en réaction à l’automatisation des caisses d’un hypermarché : de la prise de parole à la défection et à la négligence :https://www.erudit.org/fr/revues/ri/2016-v71-n2-ri02537/1036612ar/
+Insatisfaction des salariés et des clients en réaction à l’automatisation des caisses d’un hypermarché : de la prise de parole à la défection et à la négligence :
+https://www.erudit.org/fr/revues/ri/2016-v71-n2-ri02537/1036612ar/
 https://www.cairn.info/revue-francaise-d-ethique-appliquee-2018-1-page-16.htm
 https://www.lesechos.fr/tech-medias/intelligence-artificielle/les-cinq-metiers-les-plus-menaces-par-lintelligence-artificielle-137080
 https://www.hays.fr/it/blog/-/blogs/l-automatisation-ethique-est-elle-realiste
