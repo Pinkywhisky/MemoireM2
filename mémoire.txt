@@ -178,6 +178,9 @@ https://www.netcollectivites.fr/radar-pedagogique-fixe/789-radar-pedagogique-pre
 https://www.perlesystems.fr/supportfiles/poe_background_technical_note.shtml
 
 Chapitre 4 : Les limites de l’automatisation
+https://fr.wiktionary.org/wiki/d%C3%A9sautomatiser
+https://www.researchgate.net/publication/303853919_Human_-_Robot_collaboration_in_industry
+https://www.persee.fr/docAsPDF/intel_0769-4113_2015_num_63_1_1028.pdf
 
 Le côté éthique
 https://cnt-so.org/staa/2022/11/11/non-a-lautomatisation-des-metiers-de-lart/
