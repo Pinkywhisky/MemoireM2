@@ -89,6 +89,8 @@ Chapitre 1 : L’évolution technologique dans tous les domaines
 
 La technologie et l’informatique, un combo gagnant
 --> Voir si le brevet émis est utilisé et comment ?
+https://cnie.dz/difference-entre-informatique-et-technologie-de-linformation-it/
+
 
 La technologie et son impact sur l’environnement
 https://www.cairn.info/revue-reflets-et-perspectives-de-la-vie-economique-2012-4-page-77.htm
@@ -125,9 +127,14 @@ https://doc.lagout.org/programmation/scripts/batch/Batch.pdf
 L’automatisation
 https://www.ibm.com/fr-fr/topics/automation
 https://www.editions-eni.fr/open/mediabook.aspx?idR=0afd65fc585c9fabe014ff87b3e360ea
+https://www.vmware.com/fr/topics/glossary/content/it-automation.html
+https://www.ansible.com/integrations/infrastructure/netapp
 
 L’Intelligence Artificielle
-
+https://www.linkedin.com/pulse/ia-d%C3%A9cisionnelle-comment-lia-r%C3%A9volutionne-la-prise-de-rupert-schiessl/?originalSubdomain=fr
+https://atos.net/wp-content/uploads/2019/06/atos-what-will-come-next-in-automation-white-paper.pdf
+https://books.google.fr/books?hl=fr&lr=&id=rNHtDwAAQBAJ&oi=fnd&pg=PA400&dq=watson+d%27IBM&ots=Pyn3Ovv5Od&sig=Bi6go0X3eMpou3RqsfMI9-fy2ek#v=onepage&q=watson%20d'IBM&f=false
+https://www.concur.fr/blog/article/negliger-lautomatisation-et-lia-une-erreur-strategique-en-2021
 
 Chapitre 3 : L’automatisation, un confort au quotidien
 
@@ -178,9 +185,6 @@ https://www.netcollectivites.fr/radar-pedagogique-fixe/789-radar-pedagogique-pre
 https://www.perlesystems.fr/supportfiles/poe_background_technical_note.shtml
 
 Chapitre 4 : Les limites de l’automatisation
-https://fr.wiktionary.org/wiki/d%C3%A9sautomatiser
-https://www.researchgate.net/publication/303853919_Human_-_Robot_collaboration_in_industry
-https://www.persee.fr/docAsPDF/intel_0769-4113_2015_num_63_1_1028.pdf
 
 Le côté éthique
 https://cnt-so.org/staa/2022/11/11/non-a-lautomatisation-des-metiers-de-lart/
@@ -200,6 +204,15 @@ https://martin-gibert.medium.com/quest-ce-que-l-%C3%A9thique-des-algorithmes-b68
 
 L’addiction aux technologies
 https://www.drogues.gouv.fr/les-francais-addicts-leurs-ecrans
+https://lepetitjournal.com/societe/intoxication-digitale-le-numerique-nous-aide-t-il-mieux-vivre-154278
+https://fr.style.yahoo.com/6-astuces-passer-moins-temps-154000682.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAFP1Gu4S6nj-Vw-UrRkxAE5BG5ZuoJg9cBeJddlgZ0Ie1FouEBWoEaQw0XrKhCrPUMWnWX6_bLW2m83pVMGXnjFii9j254I4r_tGMFvVcbEQHrERC5XLvd41nqBARwgc5n0DK49pBxnVW7OJvwv38hVuhtKRcZQWGW2w4VeowDhF
+https://isupnat-naturopathie.fr/digital-detox-et-si-cetait-le-bon-moment/ 
+
+
+
+https://fr.wiktionary.org/wiki/d%C3%A9sautomatiser
+https://www.researchgate.net/publication/303853919_Human_-_Robot_collaboration_in_industry
+https://www.persee.fr/docAsPDF/intel_0769-4113_2015_num_63_1_1028.pdf
 
 Conclusion
 
