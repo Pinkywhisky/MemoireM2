@@ -3,6 +3,7 @@
 
 :: On initialise la variable "erreur" à "0"
 set erreur="0"
+set lienGit = "https://github.com/Pinkywhisky/MemoireM2"
 
 :: On place un pointeur
 :debut
@@ -13,12 +14,12 @@ if /I %erreur% == "1" (echo Merci de faire le choix 1 ou 2 !)
 :: On écrit les choix et les actions proposées
 ECHO [1] Faire un git pull
 ECHO [2] Faire un git push
-:: On attend une entrée quis era stockée dans la variable "choix"
+:: On attend une entrée qui sera stockée dans la variable "choix"
 :: On écrira "Resultat :"
 set /p choix=Resultat :
 :: Si la variable "choix" est égale à 1 alors va au pointeur nommé "pull"
 if /I "%choix%" == "1" (goto pull)
-:: Si la variable "choix" est égale à 2 alors va au pointeur nommé "push
+:: Si la variable "choix" est égale à 2 alors va au pointeur nommé "push"
 if /I "%choix%" == "2" (goto push)
 :: On initialise la variable "erreur" à 1
 set erreur="1"
@@ -29,7 +30,7 @@ goto :debut
 :pull
 :: On effectue des lignes de commandes pour recevoir
 :: Les modifications du site Github
-git pull https://github.com/Pinkywhisky/MemoireM2 master
+git pull %lienGit% master
 ECHO Mise a jour faite dans le dossier local !
 :: On attend l'action de l'utilisateur
 pause
@@ -43,7 +44,7 @@ set debut="%date% %time%"
 :: Les modifications sur le site Github
 git add .
 git commit -m "memoire %date% %time%"
-git push https://github.com/Pinkywhisky/MemoireM2 master
+git push %lienGit% master
 set fin="%date% %time%"
 ECHO Mise a jour faite sur github !
 echo Debut du programme %debut%
