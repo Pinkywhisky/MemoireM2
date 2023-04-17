@@ -3,7 +3,7 @@
 
 :: On initialise la variable "erreur" à "0"
 set erreur="0"
-set lienGit = "https://github.com/Pinkywhisky/MemoireM2"
+set lienGit="https://github.com/Pinkywhisky/MemoireM2"
 
 :: On place un pointeur
 :debut
