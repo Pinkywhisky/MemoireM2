@@ -1,0 +1,218 @@
+L'automatisation : une évolution dans le domaine des postes de l'informatique
+Transformer l'humain par le script, un danger ou une bénédiction ?
+
+page de garde
+Résumé (Après la rédaction du mémoire)
+Sommaire
+Table des figures ou illustration
+Glossaire (optionnel)
+Préface (Après la rédaction du mémoire)
+Remerciement (peut être inclu dans la préface)
+
+Introduction
+- définir entreprise
+- accentuer le coté évolution
+- trouver des liaison entre les parties / fil conducteur
+- l'évolution fait partie de l'humain
+- notion d'organisation par l'ordre qui permet de trier 
+- validé une inscription dans un script
+
+Etat de l'art
+Formulation d'hypothèse
+Cadre théorique
+Cadre de développement
+
+Conclusion et discussion
+
+Postface (bilan personnel)
+
+Bibliographie
+Annexe
+
+RENDU 29 mars 2023 à 19h00
+
+Automatisation : (https://www.toosmart.io/qu-est-ce-que-l-automatisation)
+- processus numériques récurrents
+- tâches répétitives et à faible valeur ajoutée
+- En principe, toute tâche qui peut s’écrire comme une succession de règles peut être automatisée
+- uniformiser les comptes-rendus
+- décharger les humains de tâches répétitives, chronophages et à faible valeur ajoutée
+- ce temps investi est rapidement rentabilisé
+- se concentrer sur des missions à forte valeur ajoutée
+- le risque d’erreur humaine disparaît
+- se focaliser sur leur cœur de métier, qui comporte souvent une valeur ajoutée bien plus motivante
+- conjuguer vie professionnelle et vie privée
+- favoriser le travail hybride et le télétravail
+- Pour automatiser, il faut se fier à une base de données à jour
+
+https://www.linternaute.fr/dictionnaire/fr/definition/processus/
+processus , nom masculin
+    En informatique, ensemble d'instructions exécutables par un ordinateur.
+
+https://www.linternaute.fr/dictionnaire/fr/definition/automatiser/
+automatiser , verbe transitif
+    Rendre automatique, procéder à l'automatisation d'un processus.
+	
+https://www.ibm.com/fr-fr/topics/automation
+L'automatisation est le terme qui décrit les applications technologiques où l'apport humain est minimisé. Cela inclut l'automatisation des processus métier (BPA, Business Process Automation), l'automatisation de l'informatique, les applications personnelles telles que la domotique, entre autres.
+
+Types d'automatisation :
+	Automatisation basique 
+	Automatisation des processus 
+	Automatisation des intégrations
+	L'automatisation de l'intelligence artificielle
+
+Les débuts de l'automatisation
+
+les avantages de l'automatisation
+https://stsolutions.ch/automatisation-industrielle/
+https://www.mondial-infos.fr/avantages-et-inconvenients-de-lautomatisation/
+https://definir-tech.com/info/3410/quels-sont-les-avantages-et-les-inconvenients-de-l-automatisation
+http://www.authot.com/fr/2021/06/08/lautomatisation-ses-avantages-et-ses-limites/
+https://www.fortra.com/fr/ressources/guides/operations-automatisees-5-avantages-de-lautomatisation
+
+Les inconvéniants de l'automatisation
+https://zipclock.com/fr/business-automation/disadvantages-of-business-process-automation.html
+https://www.synonyme-du-mot.com/les-articles/quels-sont-les-inconvenients-de-lautomatisation
+
+Le travail avec l'automatisation
+https://uplandsoftware.com/cimpl-fr/resources/blogue/5-impacts-de-lautomatisation-sur-votre-methode-de-travail/
+- 
+
+
+
+Introduction
+
+Problématique
+
+Chapitre 1 : L’évolution technologique dans tous les domaines
+
+La technologie et l’informatique, un combo gagnant
+--> Voir si le brevet émis est utilisé et comment ?
+https://cnie.dz/difference-entre-informatique-et-technologie-de-linformation-it/
+
+
+La technologie et son impact sur l’environnement
+https://www.cairn.info/revue-reflets-et-perspectives-de-la-vie-economique-2012-4-page-77.htm
+https://ellcie-healthy.com/limpact-de-la-technologie-sur-lenvironnement/
+https://www.projetecolo.com/impact-des-technologies-sur-l-environnement-201.html
+https://www.lemondedelenergie.com/innovation-transition-ecologique/2021/09/14/
+https://selectra.info/telecom/actualites/acteurs/empreinte-carbone-numerique-nouvelles-technologies-moins-consommatrices
+https://www.ericsson.com/fr/blog/3/2021/5/comment-reduire-lempreinte-carbone-grace-aux-nouvelles-technologies
+https://datacenter-magazine.fr/datacenters-defis-techniques-et-enjeux-environnementaux-dun-marche-en-plein-boom/
+
+L’évolution technologique pour faire pérenniser les entreprises
+
+La technologie pour prendre soin de l’Humain
+https://www.vie-publique.fr/parole-dexpert/38509-nouvelles-technologies-sante
+https://medipense.com/fr/comment-lautomatisation-aide-les-soins-de-sante/
+https://santors.fr/les-soins/des-medicaments-imprimes-3-d
+https://hitwest.ouest-france.fr/news/le-bras-bionique-a-nantes-comment-ca-marche-38697
+https://www.medecinesciences.org/en/articles/medsci/full_html/2012/11/medsci20122811p932/medsci20122811p932.html
+https://www.20minutes.fr/sante/4009091-20221111-sonde-connectee-aider-reeducation-perineale
+
+La technologie et la guerre
+https://www.cairn.info/revue-inflexions-2007-1-page-177.htm
+https://www.senat.fr/questions/base/2015/qSEQ150114500.html
+https://observers.france24.com/fr/moyen-orient/20221125-propagande-terrorisme-etat-islamique-r%C3%A9seaux-sociaux
+
+
+Chapitre 2 : Evolution du poste informatique à l’automatisation
+
+L’ordinateur
+
+Le programme informatique
+https://doc.lagout.org/programmation/scripts/batch/Batch.pdf
+
+L’automatisation
+https://www.ibm.com/fr-fr/topics/automation
+https://www.editions-eni.fr/open/mediabook.aspx?idR=0afd65fc585c9fabe014ff87b3e360ea
+https://www.vmware.com/fr/topics/glossary/content/it-automation.html
+https://www.ansible.com/integrations/infrastructure/netapp
+
+L’Intelligence Artificielle
+https://www.linkedin.com/pulse/ia-d%C3%A9cisionnelle-comment-lia-r%C3%A9volutionne-la-prise-de-rupert-schiessl/?originalSubdomain=fr
+https://atos.net/wp-content/uploads/2019/06/atos-what-will-come-next-in-automation-white-paper.pdf
+https://books.google.fr/books?hl=fr&lr=&id=rNHtDwAAQBAJ&oi=fnd&pg=PA400&dq=watson+d%27IBM&ots=Pyn3Ovv5Od&sig=Bi6go0X3eMpou3RqsfMI9-fy2ek#v=onepage&q=watson%20d'IBM&f=false
+https://www.concur.fr/blog/article/negliger-lautomatisation-et-lia-une-erreur-strategique-en-2021
+
+Chapitre 3 : L’automatisation, un confort au quotidien
+
+Le réseau internet
+https://www.techno-science.net/definition/10886.html
+https://www.techno-science.net/definition/4008.html
+https://fr.wikipedia.org/wiki/Internet
+https://fr.wikipedia.org/wiki/Autonomous_System
+https://www.cloudflare.com/fr-fr/learning/network-layer/what-is-an-autonomous-system/
+https://www.internetsociety.org/fr/policybriefs/openstandards/
+https://www.cloudflare.com/fr-fr/learning/dns/what-is-dns/
+https://www.service-public.fr/particuliers/vosdroits/F13851
+https://www.kaspersky.fr/resource-center/definitions/what-is-a-vpn
+https://veille-travail.anact.fr/produits-documentaires/le-teletravail-ameliore-t-il-la-qualite-de-vie-au-travail
+http://yves.lasfargue.pagesperso-orange.fr/Telecharge%202018/2018-05-17%20OBERGO%20-%20Rapport%20enquete%20Teletravail%202018.pdf
+
+Le numérique
+https://talentsdunumerique.com/le-numerique
+https://fr.wikipedia.org/wiki/Code_Morse_international
+https://bbf.enssib.fr/consulter/bbf-1981-07-0391-001
+https://fr.wikipedia.org/wiki/Mod%C3%A8le_relationnel
+https://fr.wikipedia.org/wiki/Base_de_donn%C3%A9es#
+https://www.la-croix.com/Economie/Economie-et-entreprises/Facebook-Google-geants-vente-donnees-personnelles-2019-12-29-1201068909
+https://dictionnaire.lerobert.com/definition/smartphone
+
+Le cloud
+https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/
+https://www.zdnet.fr/actualites/zd-tech-le-cloud-francais-ecrase-par-trois-geants-americains-39942686.htm
+https://www.vmware.com/fr/products/esxi-and-esx.html
+https://www.vmware.com/fr/topics/glossary/content/hypervisor.html
+https://www.ummto.dz/dspace/bitstream/handle/ummto/12483/HamdaniNadir.pdf?sequence=1&isAllowed=y
+http://yannickprie.net/archives/VEILLE-2009-2012/2012/cloudsec/livreblanc_securite_virtualisation.pdf
+https://www.it-connect.fr/virtualisation-les-types-de-connexion-au-reseau/
+
+
+Les objets connectés
+https://primabord.eduscol.education.fr/qu-est-ce-qu-un-objet-connecte
+https://www.google.com/search?client=firefox-b-d&q=avantage+des+objets+connect%C3%A9
+https://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/objets-connectes
+https://www.notre-planete.info/publi/2263-objets-connectes-avantages
+https://iotjourney.orange.com/fr-FR/explorer/les-solutions-iot/objet-connecte
+https://www.connectwave.fr/techno-appli-iot/iot/reseaux-et-infrastructures-iot/
+https://iotjourney.orange.com/fr-FR/connectivite
+https://www.connectwave.fr/techno-appli-iot/iot/les-reseaux-iot/
+https://www.smart-traffik.io/liot-dans-le-retail-moteur-dune-nouvelle-experience-client/
+https://www.silamp.fr/objet-connecte-definition
+https://www.netcollectivites.fr/radar-pedagogique-fixe/789-radar-pedagogique-preventif-speed.html
+https://www.perlesystems.fr/supportfiles/poe_background_technical_note.shtml
+
+Chapitre 4 : Les limites de l’automatisation
+
+Le côté éthique
+https://cnt-so.org/staa/2022/11/11/non-a-lautomatisation-des-metiers-de-lart/
+https://trustmyscience.com/automatisation-les-metiers-du-futur-seront-ils-majoritairement-technologiques/
+Insatisfaction des salariés et des clients en réaction à l’automatisation des caisses d’un hypermarché : de la prise de parole à la défection et à la négligence :
+https://www.erudit.org/fr/revues/ri/2016-v71-n2-ri02537/1036612ar/
+https://www.cairn.info/revue-francaise-d-ethique-appliquee-2018-1-page-16.htm
+https://www.lesechos.fr/tech-medias/intelligence-artificielle/les-cinq-metiers-les-plus-menaces-par-lintelligence-artificielle-137080
+https://www.hays.fr/it/blog/-/blogs/l-automatisation-ethique-est-elle-realiste
+https://www.nae.edu/200473/Socially-Responsible-Automation-A-Framework-for-Shaping-the-Future
+https://www.cnil.fr/fr
+https://www.bocasay.com/fr/valent-donnees-personnelles-comment-utilisees/
+https://www.la-croix.com/Economie/Economie-et-entreprises/Facebook-Google-geants-vente-donnees-personnelles-2019-12-29-1201068909
+https://www.lemondeinformatique.fr/actualites/lire-l-ia-futur-recruteur-pour-trouver-les-candidats-ideaux-89197.html
+https://www.apec.fr/tendances-emploi-cadre/processus-de-recrutement-des-cadres/ia-et-recrutement--quels-impacts-sur-les-metiers-cadres-des-rh.html
+https://martin-gibert.medium.com/quest-ce-que-l-%C3%A9thique-des-algorithmes-b681dac27334
+
+L’addiction aux technologies
+https://www.drogues.gouv.fr/les-francais-addicts-leurs-ecrans
+https://lepetitjournal.com/societe/intoxication-digitale-le-numerique-nous-aide-t-il-mieux-vivre-154278
+https://fr.style.yahoo.com/6-astuces-passer-moins-temps-154000682.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAFP1Gu4S6nj-Vw-UrRkxAE5BG5ZuoJg9cBeJddlgZ0Ie1FouEBWoEaQw0XrKhCrPUMWnWX6_bLW2m83pVMGXnjFii9j254I4r_tGMFvVcbEQHrERC5XLvd41nqBARwgc5n0DK49pBxnVW7OJvwv38hVuhtKRcZQWGW2w4VeowDhF
+https://isupnat-naturopathie.fr/digital-detox-et-si-cetait-le-bon-moment/ 
+
+
+
+https://fr.wiktionary.org/wiki/d%C3%A9sautomatiser
+https://www.researchgate.net/publication/303853919_Human_-_Robot_collaboration_in_industry
+https://www.persee.fr/docAsPDF/intel_0769-4113_2015_num_63_1_1028.pdf
+
+Conclusion
+
